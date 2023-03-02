@@ -12,8 +12,7 @@
     "process": "^0.11.10",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
-    "react-scripts": "5.0.1",
-    "exapmle-react-lib": "https://github.com/jp-96/exapmle-react-lib"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "test": "react-scripts test",
