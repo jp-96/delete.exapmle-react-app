@@ -13,7 +13,8 @@
     "process": "^0.11.10",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
-    "react-scripts": "5.0.1"
+    "react-scripts": "5.0.1",
+    "weblueth-react": "https://github.com/jp-96/weblueth-react.git"
   },
   "scripts": {
     "test": "react-scripts test",
