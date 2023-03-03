@@ -4944,7 +4944,7 @@ events@^3.2.0:
 
 "example-react-lib@https://github.com/jp-96/exapmle-react-lib.git":
   version "1.0.0"
-  resolved "https://github.com/jp-96/exapmle-react-lib.git#62caa595d9bf9760cedb915225491fd9c7e3bde9"
+  resolved "https://github.com/jp-96/exapmle-react-lib.git#76e57d3a649ae171550c9571a37907a6d4d7defb"
   dependencies:
     react "^18.2.0"
     react-dom "^18.2.0"
